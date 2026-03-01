@@ -197,11 +197,31 @@
 </section>
 ```
 
+## ⚙️ Teknologi yang Digunakan
 
+### 1. HTML5
+- Digunakan untuk struktur dasar website.
 
+### 2. CSS3
+* Custom styling
+* Hover effect
+* Layout tambahan
 
+### 3. Bootstrap 5
+* Navbar
+* Grid System
+* Card
+* Button
+* Progress Bar
+* Responsive Design
 
-
+### 4. Vue JS (CDN)
+* createApp()
+* data()
+* {{ interpolation }}
+* v-for
+* :binding
+* .mount('#app')
 
 
 
